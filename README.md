@@ -120,4 +120,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
