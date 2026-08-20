@@ -107,6 +107,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,9 +120,14 @@ leetcode-solutions/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0192-word-frequency/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
