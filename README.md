@@ -112,6 +112,7 @@ leetcode-solutions/
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
