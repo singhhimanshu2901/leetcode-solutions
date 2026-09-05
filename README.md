@@ -113,6 +113,7 @@ leetcode-solutions/
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
