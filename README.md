@@ -107,6 +107,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -118,6 +119,7 @@ leetcode-solutions/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
