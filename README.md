@@ -124,6 +124,7 @@ leetcode-solutions/
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -133,6 +134,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -142,6 +144,7 @@ leetcode-solutions/
 | [0015-3sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
