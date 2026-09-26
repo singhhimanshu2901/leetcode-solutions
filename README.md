@@ -124,6 +124,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -135,6 +136,7 @@ leetcode-solutions/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -167,6 +169,7 @@ leetcode-solutions/
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
