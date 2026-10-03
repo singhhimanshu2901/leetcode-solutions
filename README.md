@@ -141,6 +141,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -269,6 +270,7 @@ leetcode-solutions/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
@@ -296,4 +298,12 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
