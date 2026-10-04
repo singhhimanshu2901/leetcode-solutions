@@ -149,6 +149,7 @@ leetcode-solutions/
 | [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -230,6 +231,7 @@ leetcode-solutions/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -273,10 +275,12 @@ leetcode-solutions/
 | [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -306,4 +310,5 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
