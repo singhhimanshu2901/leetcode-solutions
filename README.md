@@ -117,6 +117,7 @@ leetcode-solutions/
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -249,6 +250,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
