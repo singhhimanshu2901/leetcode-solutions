@@ -210,6 +210,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@ leetcode-solutions/
 | [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
