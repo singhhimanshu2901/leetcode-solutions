@@ -119,6 +119,7 @@ leetcode-solutions/
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -269,6 +270,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
