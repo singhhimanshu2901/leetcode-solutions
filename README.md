@@ -312,6 +312,7 @@ leetcode-solutions/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -339,4 +340,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
