@@ -119,6 +119,7 @@ leetcode-solutions/
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -224,11 +225,13 @@ leetcode-solutions/
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +241,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
