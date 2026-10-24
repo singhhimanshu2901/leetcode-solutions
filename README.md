@@ -113,6 +113,7 @@ leetcode-solutions/
 | [0049-group-anagrams](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -229,6 +230,7 @@ leetcode-solutions/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -322,6 +324,7 @@ leetcode-solutions/
 | [0020-valid-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
