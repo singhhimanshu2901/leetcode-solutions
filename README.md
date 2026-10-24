@@ -189,6 +189,7 @@ leetcode-solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0567-permutation-in-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ leetcode-solutions/
 | [0141-linked-list-cycle](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
