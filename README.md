@@ -127,6 +127,7 @@ leetcode-solutions/
 | [0724-find-pivot-index](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -244,6 +245,7 @@ leetcode-solutions/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -251,10 +253,12 @@ leetcode-solutions/
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +266,7 @@ leetcode-solutions/
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
