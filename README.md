@@ -120,6 +120,7 @@ leetcode-solutions/
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -306,6 +307,7 @@ leetcode-solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@ leetcode-solutions/
 | [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -405,4 +408,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
