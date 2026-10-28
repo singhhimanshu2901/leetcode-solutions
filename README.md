@@ -245,6 +245,7 @@ leetcode-solutions/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -298,6 +299,7 @@ leetcode-solutions/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -312,6 +314,7 @@ leetcode-solutions/
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Lifting
@@ -328,6 +331,7 @@ leetcode-solutions/
 | [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Stack
@@ -412,4 +416,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
