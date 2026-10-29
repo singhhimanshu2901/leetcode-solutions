@@ -122,6 +122,7 @@ leetcode-solutions/
 | [0287-find-the-duplicate-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -149,6 +150,7 @@ leetcode-solutions/
 | [0202-happy-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -184,6 +186,7 @@ leetcode-solutions/
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +287,7 @@ leetcode-solutions/
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -374,15 +378,18 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,4 +432,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
