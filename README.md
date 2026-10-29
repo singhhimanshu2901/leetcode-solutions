@@ -186,6 +186,7 @@ leetcode-solutions/
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ leetcode-solutions/
 | [0202-happy-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bit Manipulation
@@ -383,6 +385,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
@@ -405,6 +408,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -436,4 +440,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
