@@ -130,6 +130,7 @@ leetcode-solutions/
 | [0724-find-pivot-index](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [1046-last-stone-weight](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -377,6 +378,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
