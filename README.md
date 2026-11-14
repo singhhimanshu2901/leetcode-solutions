@@ -246,6 +246,7 @@ leetcode-solutions/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -343,6 +344,7 @@ leetcode-solutions/
 | [0010-regular-expression-matching](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -448,4 +450,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/singhhimanshu2901/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
